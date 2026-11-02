@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Earth",
+    "category": [
+      "Planets"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Moon",
+    "category": [
+      "Moons"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sun",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:1|"
+  },
+  {
+    "name": "Mercury",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:1|"
+  },
+  {
+    "name": "Venus",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:1|"
+  },
+  {
+    "name": "Mars",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:2|"
+  },
+  {
+    "name": "Ceres",
+    "category": [
+      "Dwarf Planets"
+    ],
+    "requires": "|Progressive Velocity:2|"
+  },
+  {
+    "name": "Jupiter",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:2|"
+  },
+  {
+    "name": "Saturn",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:2|"
+  },
+  {
+    "name": "Uranus",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Neptune",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Pluto",
+    "category": [
+      "Dwarf Planets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Halley",
+    "category": [
+      "Comets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Makemake",
+    "category": [
+      "Dwarf Planets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Haumea",
+    "category": [
+      "Dwarf Planets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Eris",
+    "category": [
+      "Dwarf Planets"
+    ],
+    "requires": "|Progressive Velocity:3|"
+  },
+  {
+    "name": "Proxima Centauri",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:7|"
+  },
+  {
+    "name": "Sirius",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:7|"
+  },
+  {
+    "name": "Aldebaran",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:8|"
+  },
+  {
+    "name": "Vega",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:8|"
+  },
+  {
+    "name": "Betelgeuse",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Pleiades Nebula",
+    "category": [
+      "Nebulae"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Hyades Cluster",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "California Nebula",
+    "category": [
+      "Nebulae"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Rigel",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Canopus",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Polaris",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Kepler-22",
+    "category": [
+      "Stars"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Kepler-22 b",
+    "category": [
+      "Planets"
+    ],
+    "requires": "|Progressive Velocity:9|"
+  },
+  {
+    "name": "Carina Nebula",
+    "category": [
+      "Nebulae"
+    ],
+    "requires": "|Progressive Velocity:10|"
+  },
+  {
+    "name": "Orion Nebula",
+    "category": [
+      "Nebulae"
+    ],
+    "requires": "|Progressive Velocity:10|"
+  },
+  {
+    "name": "Sagittarius A*",
+    "category": [
+      "Black Holes"
+    ],
+    "requires": "|Progressive Velocity:11|"
+  },
+  {
+    "name": "SS 433 B",
+    "category": [
+      "Black Holes"
+    ],
+    "requires": "|Progressive Velocity:11|"
+  },
+  {
+    "name": "Manatee Nebula",
+    "category": [
+      "Nebulae"
+    ],
+    "requires": "|Progressive Velocity:11|"
+  },
+  {
+    "name": "Large Magellanic Cloud",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:12|"
+  },
+  {
+    "name": "Small Magellanic Cloud",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:12|"
+  },
+  {
+    "name": "Andromeda",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:13|"
+  },
+  {
+    "name": "Triangulum",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:13|"
+  },
+  {
+    "name": "Sombrero",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "Whirlpool",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "M 101 (Pinwheel Galaxy)",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "Centaurus A",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "Black Eye",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "NGC 4565 (Needle Galaxy)",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "M 74 (Phantom Galaxy)",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "M 87",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:14|"
+  },
+  {
+    "name": "NGC 4889",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:15|"
+  },
+  {
+    "name": "NGC 4874",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:15|"
+  },
+  {
+    "name": "NGC 4921 (Anemic Galaxy)",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:15|"
+  },
+  {
+    "name": "Cartwheel Galaxy",
+    "category": [
+      "Galaxies"
+    ],
+    "requires": "|Progressive Velocity:16|"
+  },
+  {
+    "name": "APM 08279+5255",
+    "category": [
+      "Quasars"
+    ],
+    "requires": "|Progressive Velocity:16|"
+  },
+  {
+    "name": "TON 618",
+    "victory": true,
+    "category": [
+      "Quasars"
+    ],
+    "requires": "|Progressive Velocity:16|"
+  }
+]
